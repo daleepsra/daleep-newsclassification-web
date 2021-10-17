@@ -1,14 +1,8 @@
 # Live link-https://classify-news.herokuapp.com/
 # About the project
 
-This Project takes a newspaper headline and classifies it into either of the 3 categories:Business,technology and Sport. news_scrapping file is used to create our own dataset. news_clssification is the main file where various models,vectorisation,encodings are performed.
+This Project takes a newspaper headline and classifies it into either of the 3 categories:Business,technology and Sport. news_scrapping file is used to create our own dataset. news_classification is the main file where various models,vectorisation,encodings are performed.
 
-
-# Deployment Using Flask To Heroku
-
- - app1.py is the main flask app file
- - model.pkl is the saved trained model
- - tf1.pkl cantains the saved vocubalary for the trained model
 
 # Technologies Used
 - Flask
