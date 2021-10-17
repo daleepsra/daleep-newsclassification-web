@@ -10,7 +10,7 @@ This Project takes a newspaper headline and classifies it into either of the 3 c
 - NLP
 - Heroku
 - scikit-learn
-- 
+
 ### Installation
 
 1. Clone the repo ```https://github.com/daleepsra/daleep-newsclassification-web.git ```
